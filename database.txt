@@ -1,0 +1,9 @@
+omp_
+
+
+itsm2 所用数据库表
+pg_ xxx
+config_param
+user_roles
+use_user_role   UsernamePasswordAuthenticationToken  ompLoginSuccessHandler  handleSpringSecurityException
+user_profile
